@@ -21,7 +21,7 @@ BigInt => For Big Numbers
  
  console.log(typeof name);
  console.log(typeof age );
- console.log(typeof undefined);
+ console.log(typeof undefineed);
  console.log(typeof nullll);
  console.log(typeof isLoggedin);
  
