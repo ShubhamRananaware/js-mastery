@@ -21,7 +21,7 @@ let score3 = true
  console.log(valueofScoreInNumber3);
 
  /*
-  Datatypes>>> Number
+  Datatype>>> Number
   "35">>>>>>>>>> 35
   "25aCB">>>>>NaN
   null>>>>>0
