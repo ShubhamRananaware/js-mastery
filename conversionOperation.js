@@ -18,3 +18,13 @@ console.log(Counter);
 
 ++Counter
 console.log(Counter);
+
+let name= "shubham"
+//  name= "sr"
+let x= "sr"
+
+name=x
+
+ console.log(name);
+
+ 
