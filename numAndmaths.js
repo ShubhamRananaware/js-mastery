@@ -33,7 +33,6 @@ console.log(Math.random()*10);
 console.log(Math.floor(Math.random()*10+1));
 
 // NOW RO GET THE NUMBER BETWEEN 10 TO 20
-
 const min = 10
 const max = 20
  console.log(Math.floor((Math.random()*min) + (max - min + 1)));
