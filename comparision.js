@@ -10,7 +10,7 @@ console.log("For Undefined");
 
 console.log(undefined > 0);
 console.log(undefined == 0);
-console.log(undefined >= 0);
+console.log(undefined >= 0)
 console.log(undefined = 0);
  
 
