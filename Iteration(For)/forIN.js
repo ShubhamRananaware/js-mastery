@@ -2,7 +2,7 @@
 // For iteration over OBJECTS
 // Can  use on array also
 // It give the key of the Object 
-// not on map
+// not in maps
 
 const obj={
        fName: "shubham",
