@@ -39,3 +39,16 @@ Array.prototype.crick =function(){
 //console.log(KBD.kkkbd());because it will be avi for only ARRAY
 console.log(cricketer.crick());
 
+
+//
+let newVar ="Shubham     "
+
+String.prototype.trueLength=function(){
+    console.log(`${this}`);
+    console.log(`The true Length is ${this.trim().length}`);
+    
+    
+}
+newVar.trueLength()
+"ABHI   ".trueLength()
+"Prasad".trueLength()
